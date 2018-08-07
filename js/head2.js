@@ -68,7 +68,7 @@ document.writeln("							<a href=\'http://www.kwangda.com\'><img src=\'images/he
 document.writeln("						</div>");
 document.writeln("					</div>");
 document.writeln("					<div class=\'mic_nav col-xs-12 col-md-12\'>");
-document.writeln("						<span><a href=\'#\' onclick=\'javascript:history.back(-1);\'><i class=\'glyphicon glyphicon-menu-left\' aria-hidden=\'true\'></i>返回上一页</a>/\'信用+“详情</span>");
+document.writeln("						<span><a href=\'#\' onclick=\'javascript:history.back(-1);\'><i class=\'glyphicon glyphicon-menu-left\' aria-hidden=\'true\'></i>返回上一页</a></span>");
 document.writeln("					</div>");
 document.writeln("				</div>");
 document.writeln("				</div>");

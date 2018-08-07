@@ -274,11 +274,12 @@ a.menu-toggle-btn {
 .skill .skill_inner .a,.index_case .case_inner .a{
   margin-right: 0;
 }
-.skill .skill_inner .skill_item img,.case .case_inner img{
+.skill .skill_inner .skill_item img,.index_case .case_inner img{
   padding-bottom: 20px;
 }
 .skill .skill_inner p,.index_case .case_inner p{
   padding:0 10px;
+  text-align: justify;
 }
 .ad{
   background: #1153a9;
@@ -373,7 +374,7 @@ a.menu-toggle-btn {
   padding: 50px 0px;
 }
 .item_box .text{
-  padding: 50px 50px 0  50px ;
+  padding: 0 0  50px 20px;
 }
 .item_box .item .text h3{
   font-weight: 600px;
@@ -419,6 +420,7 @@ a.menu-toggle-btn {
 }
 .aptitude img{
   width: 100%;
+  padding: 10px 0 10px;
 }
 .aptitude h3{
   font-weight: 600;
